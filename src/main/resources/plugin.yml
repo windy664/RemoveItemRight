@@ -1,0 +1,4 @@
+name: RemoveItemRight
+version: '${project.version}'
+main: org.windy.removeitemright.RemoveItemRight
+api-version: '1.20'
