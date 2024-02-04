@@ -1,2 +1,5 @@
 disabledItems:
   - CREATE_WRENCH
+Enabled-world:
+  - survival_world
+  - world
