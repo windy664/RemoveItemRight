@@ -1,5 +1,7 @@
+#禁用的物品
 disabledItems:
-  - CREATE_WRENCH
+  - CREATE_WRENCH #这个是机械动力扳手
+#启用的世界
 Enabled-world:
   - survival_world
   - world
